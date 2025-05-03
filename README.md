@@ -99,5 +99,5 @@ This project is open source and available to use as per your descretion.
 ---
 
 <div align="center">
-  <p>📚 Made with ❤️ for students, by students 📚</p>
+  <p>📚 Made with ❤️ for students📚</p>
 </div>
