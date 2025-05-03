@@ -7,7 +7,6 @@
 
 <div align="center">
 
-[![GitHub license](https://img.shields.io/github/license/sharmaram25/Edu-Buddy-App?color=blue)](https://github.com/sharmaram25/Edu-Buddy-App/blob/main/LICENSE)
 [![Version](https://img.shields.io/badge/version-0.1.0-green)](https://github.com/sharmaram25/Edu-Buddy-App)
 [![ReactJS](https://img.shields.io/badge/React-18.3-blue)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue)](https://www.typescriptlang.org/)
@@ -78,15 +77,6 @@ Want to experience Edu-Buddy on your Android device? Download our APK directly:
    ```bash
    npm run build
    ```
-
-## 📷 Screenshots
-
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github.com/sharmaram25/Edu-Buddy-App/raw/master/assets/screenshot-dashboard.png" width="45%" alt="Dashboard Screenshot" />
-    <img src="https://github.com/sharmaram25/Edu-Buddy-App/raw/master/assets/screenshot-assignments.png" width="45%" alt="Assignments Screenshot" />
-  </div>
-</div>
 
 ## 🤝 Contributing
 
