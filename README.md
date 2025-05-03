@@ -19,10 +19,6 @@
 
 **Edu-Buddy** is a comprehensive educational management application designed to help students organize their academic life. With features for tracking assignments, managing lectures, monitoring expenses, and organizing events, Edu-Buddy is the all-in-one solution for staying on top of your educational journey.
 
-<div align="center">
-  <img src="https://github.com/sharmaram25/Edu-Buddy-App/raw/master/assets/app-preview.png" alt="App Preview" width="80%"/>
-</div>
-
 ## 📱 Try the App
 
 Want to experience Edu-Buddy on your Android device? Download our APK directly:
