@@ -104,7 +104,7 @@ Contributions are always welcome! Please feel free to submit a Pull Request.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source and available to use as per your descretion.
 
 ## 👨‍💻 Author
 
